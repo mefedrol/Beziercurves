@@ -1,0 +1,8 @@
+interface bezier_functions
+{
+	void bezier_functions();
+	static VoidPtr CreateBezierCurve(DOMString dots); 
+	static DOMString PolyLine(VoidPtr crv);
+	static VoidPtr SetCurvature(VoidPtr crv, double t, double curvature);
+	static double GetCurvature(VoidPtr crv, double t);
+};

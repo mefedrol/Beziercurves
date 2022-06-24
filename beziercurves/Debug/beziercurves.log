@@ -1,0 +1,10 @@
+﻿  beziercurve.cpp
+D:\диплом\beziercurves\beziercurve.cpp(88,12): warning C4101: temp: неиспользованная локальная переменная
+  beziercurve.h
+  bridge.cpp
+D:\диплом\beziercurves\bridge.cpp(41,27): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\диплом\beziercurves\bridge.cpp(61,23): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+Debug\beziercurve.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  beziercurves.vcxproj -> D:\диплом\beziercurves\Debug\beziercurves.exe

@@ -1,0 +1,53 @@
+.chart{
+    height: 100%;
+    width: 83%;
+    float: right;
+}
+.buttons {
+    width: 15%;
+    float: left;
+}
+  
+button {
+    margin: 1% 1% 1%;
+    text-align:center; 
+    padding:5px 10px; 
+    border:solid 5px #280069; 
+    -webkit-border-radius:21px;
+    -moz-border-radius:21px; 
+    border-radius: 15px; 
+    font:35px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+    font-weight:bold; 
+    color:#ffffff; 
+    background-color:#696969;  
+}
+button:hover{
+    background-color:#a3a4ad; 
+}
+button:active{
+    background-color:#696969;  
+}
+#container {
+    margin: 0 1% 1%;
+    min-height: 900px;
+}
+input {
+    border-style: solid;
+    padding: 5px;
+    font-size: 35px;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: #280069;
+    background-color: #ceced6;
+    width: 93%;
+}
+textarea {
+    border-style: solid;
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: #280069;
+    background-color: #ceced6;
+    width: 93%;
+}
